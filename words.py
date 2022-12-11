@@ -1,1 +1,1 @@
-words=["Leopard","Vagabond","Landlord","Chainsaw,"Download"]
+words=["Leopard","Vagabond","Landlord","Chainsaw","Download"]
